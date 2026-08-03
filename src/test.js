@@ -1,1 +1,1 @@
-console.log("This is for testing.")
+console.log("This is for testing the sync feature.")
