@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started with this line - LOCAL</h1>
+          <h1>Get started with this line - GITHUB</h1>
           <p>
             Edit <code>src/App.jsx</code> here and save to test <code>HMR</code>
           </p>
